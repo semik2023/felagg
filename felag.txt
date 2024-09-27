@@ -314,4 +314,3 @@
         elseif setting == false then
         Time.Text ="RespectFilteringEnabled(RFE) : false"
         Time.TextColor = BrickColor.new(0,255,0)
-        end
